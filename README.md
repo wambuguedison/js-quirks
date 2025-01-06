@@ -1,1 +1,1 @@
-# js-quirks
+# JavaScript quirks with Dr. Fullstack
